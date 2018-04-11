@@ -1,6 +1,5 @@
 <h1> Java notes </h1>
-<p>
-Abstract Class:
+<p>Abstract Class:
 
 Abstract should have atleast one Abstract method.
 Abstract method will have only declaration. No Body.
